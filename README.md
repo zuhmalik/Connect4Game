@@ -10,7 +10,9 @@ Input Validation: User inputs are validated to ensure the game runs smoothly and
 Column Full Detection: The game alerts players when a column is already full and prevents them from making invalid moves.
 Restart Option: After the game ends, players can choose to restart and play again.
 Technical Details
+
 Language: Java
+
 MVC Architecture: The project follows the Model-View-Controller (MVC) design pattern, enhancing code modularity and maintainability.
 Board Representation: The game board is represented as a 2D array, where each cell can hold a disc of the specified color.
 User Interaction: Input from players is obtained using the Scanner class, allowing for interaction through the command line.
@@ -29,10 +31,8 @@ Integrate an AI opponent with varying levels of difficulty for single-player mod
 Add an option for players to choose their colors and names.
 Acknowledgments
 The project was inspired by the classic Connect4 game and is intended for educational purposes to practice Java programming concepts.
+
 Contributing
 Contributions to this project are welcome! Feel free to fork the repository, make improvements, and submit pull requests.
 
-License
-This project is licensed under the MIT License.
 
-Feel free to tailor this description to your specific implementation and preferences. Make sure to replace placeholders like [MIT License](LICENSE) with the actual URLs or references as needed. This description aims to provide an overview of your project, its features, technical details, and future plans while inviting potential contributors to participate.
